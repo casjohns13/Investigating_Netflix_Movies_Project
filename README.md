@@ -1,4 +1,4 @@
-# 1. DataCamp Project: Investigating Netflix Movies
+# 1. Investigating Netflix Movies
 
 Netflix! What started in 1997 as a DVD rental service has since exploded into one of the largest entertainment and media companies.
 
@@ -18,6 +18,6 @@ Perform exploratory data analysis on the `netflix_data.csv` data to understand m
 2. Find the most frequent movie duration
 3. Count the number of short action movies from the 1990s
 
-Performed on 16Jun25
+Executed on 16Jun25
 
 [Link](https://app.datacamp.com/learn/projects/investigating_netflix) to project on DataCamp
